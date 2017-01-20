@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name w_conn_misc)(type KiCad)(uri "$(KISYSMOD)\\w_conn_misc.pretty")(options "")(descr ""))
+  (lib (name TB6556)(type KiCad)(uri "$(KISYSMOD)\\TB6556.pretty")(options "")(descr ""))
+)
